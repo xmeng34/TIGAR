@@ -3,7 +3,7 @@
 
 ### Software
 1. DPR
-	- DPR module is saved under folder ./Model_Train_Pred/Functions
+	- DPR module is saved under folder `./Model_Train_Pred/Functions`
 
 	- Please add the executable file `./Model_Train_Pred/DPR` to your linux `${PATH}` directory. Assuming `~/bin/` is a directory added to your `${PATH}` environmental variable, you can accommodate the following example command
 
