@@ -53,7 +53,7 @@ Example data provided here are generated artificially. All input files are tab d
 |:-----:|:---:|:---:|:---:|:------:|
 |   1   | 100 |  C  |  T  |  0.01  |
 
-#### 6. Genome block annotation file (`./example_data/block_annotation_EUR.txt`)
+#### 6. Genome Block Annotation file (`./example_data/block_annotation_EUR.txt`)
 - The block annotation file is a tab delimited text file with head row of `CHROM Start End`, denoting the chromosome number, starting position, ending position. Reference genotype files shall be of one per chromosome, or one for the whole genome-wide variants. Example block annotation file for European samples is provided `./TIGAR/example_data/block_annotation_EUR.txt`. 
 
 | CHROM |   Start   |   End   |
