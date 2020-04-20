@@ -296,7 +296,7 @@ def thread_process(num):
         
         if flag < 0.01:
             print("Elastic Net model is not Valid for Gene:"+TargetID)
-            print(flag)
+            print("5-fold-CV-R2="+str(flag))
             
         else:
             print("Running Elastic Net Training from Gene:"+TargetID)
